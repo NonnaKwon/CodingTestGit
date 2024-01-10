@@ -19,6 +19,7 @@
             Console.WriteLine("N의배수고르기 풀었음 https://school.programmers.co.kr/learn/courses/30/lessons/120905");
             Console.WriteLine("암호해독 풀었음 https://school.programmers.co.kr/learn/courses/30/lessons/120892");
             Console.WriteLine("약수구하기 풀었음 https://school.programmers.co.kr/learn/courses/30/lessons/120897");
+            Console.WriteLine("합성수찾기 풀었음 https://school.programmers.co.kr/learn/courses/30/lessons/120846");
         }
     }
 }
