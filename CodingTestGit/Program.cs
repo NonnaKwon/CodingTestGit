@@ -4,8 +4,6 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
-
             Console.WriteLine("K의 갯수 풀었음 https://school.programmers.co.kr/learn/courses/30/lessons/120887");
             Console.WriteLine("대문자와 소문자 풀었음 https://school.programmers.co.kr/learn/courses/30/lessons/120893");
             Console.WriteLine("가위바위보 풀었음 https://school.programmers.co.kr/learn/courses/30/lessons/120839");
@@ -19,6 +17,7 @@
             Console.WriteLine("369게임 풀었음 https://school.programmers.co.kr/learn/courses/30/lessons/120891");
             Console.WriteLine("문자열정렬하기(2)풀었음 https://school.programmers.co.kr/learn/courses/30/lessons/120911");
             Console.WriteLine("N의배수고르기 풀었음 https://school.programmers.co.kr/learn/courses/30/lessons/120905");
+            Console.WriteLine("암호해독 풀었음 https://school.programmers.co.kr/learn/courses/30/lessons/120892");
         }
     }
 }
