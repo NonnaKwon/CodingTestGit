@@ -10,7 +10,7 @@ namespace CodingTestGit
     {
         public class Example
         {
-            public static void Main()
+            public static void solution()
             {
                 String[] s;
 
