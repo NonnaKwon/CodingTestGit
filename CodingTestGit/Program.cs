@@ -38,6 +38,9 @@
 
             Console.WriteLine("https://school.programmers.co.kr/learn/courses/30/lessons/120906 - 변철우");
             Console.WriteLine("https://school.programmers.co.kr/learn/courses/30/lessons/120851 - 변철우");
+
+            Console.WriteLine("https://school.programmers.co.kr/learn/courses/30/lessons/120833# - 변철우");
+
           
             Console.WriteLine("https://school.programmers.co.kr/learn/courses/30/lessons/120819 아이스 아메리카노 - 유정");
 			Console.WriteLine("https://school.programmers.co.kr/learn/courses/30/lessons/120826 특정 문제 제거하기 - 유정");
