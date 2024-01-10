@@ -1,4 +1,6 @@
-﻿namespace CodingTestGit
+﻿using static System.Runtime.InteropServices.JavaScript.JSType;
+
+namespace CodingTestGit
 {
     internal class Program
     {
@@ -14,9 +16,27 @@
             Console.Write("https://school.programmers.co.kr/learn/courses/30/lessons/120806 두 수의 나눗셈 - 김종민(8)");
             Console.Write("https://school.programmers.co.kr/learn/courses/30/lessons/120829 각도기 - 김종민(9)");
             Console.Write("https://school.programmers.co.kr/learn/courses/30/lessons/120831 짝수의 합 - 김종민(10)");
-            Console.Write("");
+            Console.Write("https://school.programmers.co.kr/learn/courses/30/lessons/120817 배열의 평균값 - 김종민(11)");
             Console.Write("");
 
-        }   
+        }
+
+        public class Solution
+        {
+            public double solution(int[] numbers)
+            {
+                
+
+                int Sum = 0;
+                foreach (int i in numbers)
+                {
+                    Sum += i;
+                }
+                return Sum / 2;
+
+
+                
+            }
+        }
     }
 }
