@@ -18,6 +18,7 @@
             Console.WriteLine("숫자찾기 풀었음 https://school.programmers.co.kr/learn/courses/30/lessons/120904");
             Console.WriteLine("369게임 풀었음 https://school.programmers.co.kr/learn/courses/30/lessons/120891");
             Console.WriteLine("문자열정렬하기(2)풀었음 https://school.programmers.co.kr/learn/courses/30/lessons/120911");
+            Console.WriteLine("N의배수고르기 풀었음 https://school.programmers.co.kr/learn/courses/30/lessons/120905");
         }
     }
 }
