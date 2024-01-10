@@ -16,6 +16,7 @@
             Console.WriteLine("외계행성의나이 https://school.programmers.co.kr/learn/courses/30/lessons/120834");
             Console.WriteLine("피자나눠먹기(2) https://school.programmers.co.kr/learn/courses/30/lessons/120815");
             Console.WriteLine("숫자찾기 풀었음 https://school.programmers.co.kr/learn/courses/30/lessons/120904");
+            Console.WriteLine("369게임 풀었음 https://school.programmers.co.kr/learn/courses/30/lessons/120891");
         }
     }
 }
