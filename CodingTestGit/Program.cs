@@ -6,12 +6,13 @@
         {
             Console.WriteLine("Hello, World!");
 
-            // K의 갯수 풀었음
-            // 대문자와 소문자 풀었음
-            // 가위바위보 풀었음
-            // 개미군단 풀었음
-            // 가장 큰 수 풀었음
-            // 직각삼각형 풀었음
+            Console.WriteLine("K의 갯수 풀었음 https://school.programmers.co.kr/learn/courses/30/lessons/120887");
+            Console.WriteLine("대문자와 소문자 풀었음 https://school.programmers.co.kr/learn/courses/30/lessons/120893");
+            Console.WriteLine("가위바위보 풀었음 https://school.programmers.co.kr/learn/courses/30/lessons/120839");
+            Console.WriteLine("개미군단 풀었음 https://school.programmers.co.kr/learn/courses/30/lessons/120837");
+            Console.WriteLine("가장 큰 수 풀었음 https://school.programmers.co.kr/learn/courses/30/lessons/120899");
+            Console.WriteLine("직각삼각형 풀었음 https://school.programmers.co.kr/learn/courses/30/lessons/120823");
+           
         }
     }
 }
