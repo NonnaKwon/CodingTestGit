@@ -14,6 +14,7 @@
             Console.WriteLine("직각삼각형 풀었음 https://school.programmers.co.kr/learn/courses/30/lessons/120823");
             Console.WriteLine("문자열정렬하기(1) https://school.programmers.co.kr/learn/courses/30/lessons/120850");
             Console.WriteLine("외계행성의나이 https://school.programmers.co.kr/learn/courses/30/lessons/120834");
+            Console.WriteLine("피자나눠먹기(2) https://school.programmers.co.kr/learn/courses/30/lessons/120815");
         }
     }
 }
