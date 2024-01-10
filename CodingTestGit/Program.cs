@@ -7,6 +7,7 @@
             Console.WriteLine("Hello, World!");
 
             // K의 갯수 풀었음
+            // 대문자와 소문자 풀었음
         }
     }
 }
